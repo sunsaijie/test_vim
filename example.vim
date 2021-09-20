@@ -8,6 +8,7 @@ python3 << endOfPython
 from sdd import get_cur_branch
 
 vim.command("echo getcwd()")
+vim.command("echo getcwd()")
 
 endOfPython
 endfunction
